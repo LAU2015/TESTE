@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Band News [Brazil]">
+    <display-name lang="pt">Band News [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Rede [Brazil]">
+    <display-name lang="pt">Band Rede [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180512093000 -0300" stop="20180512120000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Manhã Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512120000 -0300" stop="20180512140000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512140000 -0300" stop="20180512153000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Tarde Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512153000 -0300" stop="20180512160000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Feiras &amp; Negócios</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512160000 -0300" stop="20180512173000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Tarde Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512173000 -0300" stop="20180512180000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Capital Natural</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512180000 -0300" stop="20180512200000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512200000 -0300" stop="20180512203000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512203000 -0300" stop="20180512213000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512213000 -0300" stop="20180512222000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512222000 -0300" stop="20180512223000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Coluna e Meia com Salomão</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512223000 -0300" stop="20180512230000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512230000 -0300" stop="20180512233000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Conexão com The New York Times</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512233000 -0300" stop="20180513000000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513000000 -0300" stop="20180513003000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Ponto a Ponto</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513003000 -0300" stop="20180513030000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513030000 -0300" stop="20180513033000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Capital Natural</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513033000 -0300" stop="20180513060000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Madrugada Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513060000 -0300" stop="20180513074000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513074000 -0300" stop="20180513110000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Manhã Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513110000 -0300" stop="20180513113000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Feiras &amp; Negócios</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513113000 -0300" stop="20180513150000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513150000 -0300" stop="20180513153000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Conexão com The New York Times</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513153000 -0300" stop="20180513173000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513173000 -0300" stop="20180513180000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Ponto a Ponto</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513180000 -0300" stop="20180513220000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513220000 -0300" stop="20180513223000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Conexão com The New York Times</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513223000 -0300" stop="20180513232000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513232000 -0300" stop="20180513233000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Coluna e Meia com Salomão</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513233000 -0300" stop="20180514000000 -0300" channel="Band News [Brazil]">
+    <title lang="pt">Fim de Semana Bandnews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512103000 -0300" stop="20180512110000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Giro Business</title>
+    <category lang="pt">Variedades/Informativo</category>
+  </programme>
+  <programme start="20180512110000 -0300" stop="20180512113000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Ponto a Ponto</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180512113000 -0300" stop="20180512120000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Capital Natural</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512120000 -0300" stop="20180512123000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Vitória em Cristo</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180512123000 -0300" stop="20180512130000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180512130000 -0300" stop="20180512133000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Magazine da Liga UEFA</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180512133000 -0300" stop="20180512154500 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">NBB CAIXA - Vivo</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20180512154500 -0300" stop="20180512163000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Vídeos Incríveis</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180512163000 -0300" stop="20180512183500 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Fórmula Indy: GP de Indianápolis/EUA - Vivo</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20180512183500 -0300" stop="20180512185000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Brasil Urgente</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512185000 -0300" stop="20180512192000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Brasil Urgente SP</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512192000 -0300" stop="20180512202500 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512202500 -0300" stop="20180512211000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Amor Proibido</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180512211000 -0300" stop="20180512215700 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Igreja da Graça</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180512215700 -0300" stop="20180512220000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Agenda dos Pastores</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180512220000 -0300" stop="20180512220500 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Miss - Boletim</title>
+    <category lang="pt">Espetáculo/Diversos</category>
+  </programme>
+  <programme start="20180512220500 -0300" stop="20180512223000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Vídeonews</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180512223000 -0300" stop="20180512233000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Justiça Implacável</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20180512233000 -0300" stop="20180513014000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Amaury Jr</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513014000 -0300" stop="20180513033000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Cinema Na Madrugada: Veia De Lutador</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180513033000 -0300" stop="20180513050000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Cinema na Madrugada: Pânico no Lago 2</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180513050000 -0300" stop="20180513052000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Uma Família da Pesada</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180513052000 -0300" stop="20180513055000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Terminadores</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180513055000 -0300" stop="20180513060000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Vídeos Incríveis</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513060000 -0300" stop="20180513063000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Cozinha do Bork</title>
+    <category lang="pt">Variedades/Culinária</category>
+  </programme>
+  <programme start="20180513063000 -0300" stop="20180513070000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Terraviva Sustentável</title>
+    <category lang="pt">Variedades/Meio Ambiente</category>
+  </programme>
+  <programme start="20180513070000 -0300" stop="20180513073000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">AgroBand</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513073000 -0300" stop="20180513080000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Somos Agro</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513080000 -0300" stop="20180513083000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Depois das Chuteiras</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20180513083000 -0300" stop="20180513090000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Papo de Boleiro</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180513090000 -0300" stop="20180513093000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Resenha</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513093000 -0300" stop="20180513100000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513100000 -0300" stop="20180513103000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513103000 -0300" stop="20180513110000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Pé na Estrada</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513110000 -0300" stop="20180513120000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Santa Missa - Catedral da Sé</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180513120000 -0300" stop="20180513123000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20180513123000 -0300" stop="20180513130000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Show do Mei</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180513130000 -0300" stop="20180513140000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Band Esporte Clube</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180513140000 -0300" stop="20180513150000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Só Risos</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180513150000 -0300" stop="20180513210000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Agora É Com Datena</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180513210000 -0300" stop="20180514000000 -0300" channel="Band Rede [Brazil]">
+    <title lang="pt">Show do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+</tv>
